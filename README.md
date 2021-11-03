@@ -44,9 +44,9 @@ NER Model Building using Spacy Package
 
 Overall result
 
-Bert Q&A F-score - 0.07
-Bert MLM F-score - 0.11
-* NER Using Spacy F-score - 0.55
+- Bert Q&A F-score : 0.07
+- Bert MLM F-score : 0.11
+- NER Using Spacy F-score : 0.55
 
 
 
