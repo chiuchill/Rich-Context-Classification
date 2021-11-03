@@ -14,6 +14,7 @@ Objective
 - To understand how the dataset is being used in these publications and the excerpts relating to those datasets
 - To find links between the words used in the research articles and the data referenced in the articles.
 - Data source: https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data
+- By training the models, we will see how accurate we can use the label to find the articles in the testing datasets
 
 Dataset Structure
 - train - the full text of the training set's publications in JSON format, broken into multiple section titles  (~14300 files)
